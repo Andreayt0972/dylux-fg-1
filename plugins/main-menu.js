@@ -26,7 +26,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-  ────  *DyLux  ┃ ᴮᴼᵀ*  ────
+  ────  *ANDREA  ┃ ᴮᴼᵀ*  ────
  
 👋🏻 _Hola_ *%name*
 
@@ -34,10 +34,6 @@ const defaultMenu = {
 👥 Usuarios : %totalreg
 📈 Tiempo activo : %muptime
 ─────────────
-▢ Crea tu propio bot 
-• https://youtu.be/xFqjKN1Qt80
-▢ Descarga *FGWhatsApp*
-• https://fgmods.epizy.com
 ─────────────
 %readmore
 Ⓟ = Premium
